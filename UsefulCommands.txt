@@ -1,0 +1,4 @@
+ng  new projName
+cd projName
+ng serve --open
+ng generate component componentName
